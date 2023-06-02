@@ -1,3 +1,3 @@
 def call() {
-	sh "echo hello All from JSL"
+	sh "echo Hello All from JSL"
 }
